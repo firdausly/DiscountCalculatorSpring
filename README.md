@@ -12,7 +12,7 @@
 ## To run:
 * Import all the project in eclipse
 
-1. First you need to add the SPRING LIBRARIES to the project. You can download the latest version of Spring binaries from their website - Link to Spring](https://repo.spring.io/release/org/springframework/spring/5.3.2/spring-5.3.2-dist.zip). After you download the JARs, extract it to a local folder, let the folder name be - 'Spring Framework'.
+1. First you need to add the SPRING LIBRARIES to the project. You can download the latest version of Spring binaries from their website - [Link to Spring](https://repo.spring.io/release/org/springframework/spring/5.3.2/spring-5.3.2-dist.zip). After you download the JARs, extract it to a local folder, let the folder name be - 'Spring Framework'.
 
 
 
