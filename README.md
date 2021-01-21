@@ -25,7 +25,8 @@
 - On the 'User Libraries' section that opens, click on 'New' to add new user library.
 - Give the user library name - 'Spring'. Click on 'OK'.
 - Now, click on the button - 'Add External JARs' from the right panel.
-- Browse to the folder - 'Spring Framework', and select all the JAR files in that folder.
+- Browse to the folder - 'Spring Framework', and select all the JAR files in that folder
+(it might also be in the lib folder, select all the jar from the lib folder).
 - Click on 'Open'. All the JAR files will now get added to the user library.
 
 3. Now, you would need Apache Commons Logging library. Download the latest version from Apache website -[Link To common Logging](https://downloads.apache.org//commons/logging/binaries/commons-logging-1.2-bin.zip). After you download the JARs, extract it to a local folder, let the folder name be - 'Commons Logging'.
