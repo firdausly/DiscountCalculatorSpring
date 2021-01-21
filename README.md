@@ -12,7 +12,7 @@
 ## To run:
 * Import all the project in eclipse
 
-1. First you need to add the SPRING LIBRARIES to the project. You can download the latest version of Spring binaries from their website - 'http://www.springsource.org/spring-framework'. After you download the JARs, extract it to a local folder, let the folder name be - 'Spring Framework'.
+1. First you need to add the SPRING LIBRARIES to the project. You can download the latest version of Spring binaries from their website - Link to Spring](https://repo.spring.io/release/org/springframework/spring/5.3.2/spring-5.3.2-dist.zip). After you download the JARs, extract it to a local folder, let the folder name be - 'Spring Framework'.
 
 
 
@@ -28,7 +28,7 @@
 - Browse to the folder - 'Spring Framework', and select all the JAR files in that folder.
 - Click on 'Open'. All the JAR files will now get added to the user library.
 
-3. Now, you would need Apache Commons Logging library. Download the latest version from Apache website - 'http://commons.apache.org/proper/commons-logging/download_logging.cgi'. After you download the JARs, extract it to a local folder, let the folder name be - 'Commons Logging'.
+3. Now, you would need Apache Commons Logging library. Download the latest version from Apache website -[Link To common Logging](https://downloads.apache.org//commons/logging/binaries/commons-logging-1.2-bin.zip). After you download the JARs, extract it to a local folder, let the folder name be - 'Commons Logging'.
 
 
 
